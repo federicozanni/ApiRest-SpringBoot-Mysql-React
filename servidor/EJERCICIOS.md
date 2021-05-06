@@ -1,5 +1,5 @@
 
-#### CONSIDERACIONES GENERALES ####
+#### CONSIDERACIONES GENERALES #### 
 
 - Ambos ejercicios se resuelven en el mismo proyecto, no es necesario separarlos. De hecho hay cierta relación lógica entre ambos a nivel de entidades (titular/cuenta).
 
